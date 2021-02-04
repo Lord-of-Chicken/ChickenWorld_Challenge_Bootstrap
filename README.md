@@ -3,7 +3,7 @@
 ### ChickenWorld 
 
 Le lien pour voir le site :
- https://lord-of-chicken.github.io/ChickenWorld/.
+https://lord-of-chicken.github.io/ChickenWorld_Challenge_Bootstrap/
 
 #### Découpage du travail :
 
